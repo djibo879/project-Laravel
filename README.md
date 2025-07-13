@@ -51,11 +51,6 @@ It was designed to **showcase my mastery of Laravel in a professional context**,
 
 ---
 
-## 📬 Mailhog Configuration
-
-To test emails without a real SMTP server, the project uses **Mailhog**.
-
-
 
 
 #### Here are the most common and recommended screenshots to include in a Laravel portfolio project:
@@ -79,6 +74,7 @@ To test emails without a real SMTP server, the project uses **Mailhog**.
 
 
 ### Run Mailhog with Docker:
+
 
 ```bash
 docker run -d -p 1025:1025 -p 8025:8025 mailhog/mailhog
