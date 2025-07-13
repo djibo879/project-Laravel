@@ -73,7 +73,7 @@ MAIL_ENCRYPTION=null
 MAIL_FROM_ADDRESS=hello@example.com
 MAIL_FROM_NAME="Immobilier App"
 
-Here are the most common and recommended screenshots to include in a Laravel portfolio project:
+### Here are the most common and recommended screenshots to include in a Laravel portfolio project:
 
 ###  Formulaire de contact
 
