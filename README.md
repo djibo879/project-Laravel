@@ -73,21 +73,21 @@ MAIL_ENCRYPTION=null
 MAIL_FROM_ADDRESS=hello@example.com
 MAIL_FROM_NAME="Immobilier App"
 
-### Here are the most common and recommended screenshots to include in a Laravel portfolio project:
+#### Here are the most common and recommended screenshots to include in a Laravel portfolio project:
 
-###  Formulaire de contact
+ Formulaire de contact
 
 
 ![Formulaire](https://github.com/djibo879/project-Laravel/raw/main/image/mail.png)
-###  Mail send
+  Mail send
 
 ![Mail](image/mail.png)
 
-###  Definition of routes
+ Definition of routes
 
 ![Routes](image/route.png)
 
-###  Result of tests
+  Result of tests
 
 ![Tests](image/test.png)
 
