@@ -77,17 +77,17 @@ Here are the most common and recommended screenshots to include in a Laravel por
 
 ###  Formulaire de contact
 
-![Formulaire](./image/form.png)
+![Formulaire](image/form.png)
 
 ###  Mail send
 
-![Mail](./image/mail.png)
+![Mail](image/mail.png)
 
 ###  Definition of routes
 
-![Routes](./image/route.png)
+![Routes](image/route.png)
 
 ###  Result of tests
 
-![Tests](./image/test.png)
+![Tests](image/test.png)
 
